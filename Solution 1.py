@@ -24,3 +24,5 @@ class Solution(object):
         
         fun(0, workers, jobs, n, res)
         return res[0]
+
+    
